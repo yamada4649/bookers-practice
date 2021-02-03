@@ -1,0 +1,2 @@
+class BookFavoriteController < ApplicationController
+end
