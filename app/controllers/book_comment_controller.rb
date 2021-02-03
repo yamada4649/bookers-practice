@@ -5,4 +5,7 @@ class BookCommentController < ApplicationController
 	def destroy
 		
 	end
+	def top
+		
+	end
 end
